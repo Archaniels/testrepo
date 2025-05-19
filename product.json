@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "ProductName": "Gelang",
+    "Price": 50000,
+    "Stock": 10
+  },
+  {
+    "Id": 2,
+    "ProductName": "Gantungan Kunci",
+    "Price": 30000,
+    "Stock": 20
+  },
+  {
+    "Id": 3,
+    "ProductName": "Figura",
+    "Price": 100000,
+    "Stock": 5
+  }
+]

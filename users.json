@@ -1,0 +1,20 @@
+{
+    "johndoe": {
+        "Email": "dani@gmail.com",
+        "Username": "dani23",
+        "Password": "Dani23!",
+        "Role": "Customer"
+    },
+    "adminuser": {
+        "Email": "admin@gmail.com", 
+        "Username": "adminuser",
+        "Password": "AdminPass123!",
+        "Role": "Admin"
+    },
+    "testuser": {
+        "Email": "test.user@test.com",
+        "Username": "testuser", 
+        "Password": "TestPass789!",
+        "Role": "Customer"
+    }
+}
